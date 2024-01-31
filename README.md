@@ -25,11 +25,11 @@ FROM Table 1
 WHERE A, B, C = positive integers
 ```
 
-![](tesla fine cars.jpeg)
+![](tesla%20fine%20cars.jpeg)
 ## Results and Findings
 This is where we put the insights gotten from the analysis
 1. The company's sales have been progressively rising from the period of a specific time.
 2. It has a setback at another point due to a particular trend that was observed along the line of analysis.
 3. Customers segment with high lifetime value can be targeted for marketing efforts
 4. And all other observations from your analysis
-## recommendations
+## Recommendations
